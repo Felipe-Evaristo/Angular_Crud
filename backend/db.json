@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Genshin Impact :D",
+      "price": 0
+    },
+    {
+      "name": "CyberPunk 2077",
+      "price": "200.99",
+      "id": 2
+    }
+  ]
+}

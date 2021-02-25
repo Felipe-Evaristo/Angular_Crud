@@ -1,0 +1,20 @@
+.sidenav{
+    background-color: #262626;
+    width: 150px;
+}
+
+.sidenav a{
+    color: #fff;
+}
+
+.sidenav i{
+    padding-right: 10px;
+}
+
+.content{
+    padding: 16px;
+    background-color: #E9E9E9;
+    color:#000000;
+    font-family: 'Montserrat', sans-serif;
+}   
+
